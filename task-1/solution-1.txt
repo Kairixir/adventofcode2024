@@ -1,0 +1,10 @@
+2086478
+
+sort
+<ctrl>vG0lllllx
+sort
+p
+%s/ \+/-
+0ggqaqqaCi<ctrl>r<ctrl>r+<enter>j0@aq@a
+%s/$/+/g
+gg1000J$x0Ci<ctrl>r<ctrl>r+<enter>
